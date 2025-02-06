@@ -6,11 +6,11 @@ A **MERN (MongoDB, Express, React, Node.js) Product Store** application that all
 🔗 [MERN Product Store](https://mern-product-store-8o69.onrender.com/)
 
 ## 🚀 Features 
-- ✅ View a list of products
-- ✅ Add new products with name, image, and price
-- ✅ Edit and update existing products
-- ✅ Delete products from the store
-- ✅ Responsive design using Chakra UI  
+- View a list of products
+- Add new products with name, image, and price
+- Edit and update existing products
+- Delete products from the store
+- Responsive design using Chakra UI  
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React, Chakra UI  
