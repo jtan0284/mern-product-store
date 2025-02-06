@@ -4,8 +4,8 @@ A **MERN (MongoDB, Express, React, Node.js) Product Store** application that all
 
 ## 🌐 Live Demo  
 🔗 [MERN Product Store](https://mern-product-store-8o69.onrender.com/)
-❗Render's free tier automatically shut down the backend when inactive for some time (cold start)❗
-❗When a request comes in, it takes time to wake up (which may cause a 502 error)❗
+<br>❗Render's free tier automatically shut down the backend when inactive for some time (cold start)❗
+<br>❗When a request comes in, it takes time to wake up (which may cause a 502 error)❗
 
 ## 🚀 Features 
 - View a list of products
